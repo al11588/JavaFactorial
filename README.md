@@ -1,7 +1,9 @@
-JavaFactorial
+![Image of Pace University logo](http://odk.org/wp-content/uploads/2015/03/logo-pace-seal.jpg)
+
+Java Factorial
 =============
 
-My Java Factorial code with a GUI
+I created a Java Factorial program with a GUI for a class at Pace University.
 
 Options:
  
